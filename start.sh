@@ -1,0 +1,1 @@
+npx pnpm i --store=node_modules/.pnpm-store && npx pnpm run build
